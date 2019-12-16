@@ -1,2 +1,0 @@
-webpackJsonp([13],{g6Iv:function(e,t){},sKcK:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("keep-alive",[t("router-view")],1)},staticRenderFns:[]};var a=n("VU/8")({name:"Setting"},r,!1,function(e){n("g6Iv")},"data-v-083c2a1a",null);t.default=a.exports}});
-//# sourceMappingURL=13.a8c9455022814c97bb0d.js.map
